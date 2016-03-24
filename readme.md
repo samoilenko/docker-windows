@@ -1,0 +1,1 @@
+In a command line run config.bat <machineName>
