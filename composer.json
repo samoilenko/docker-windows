@@ -1,0 +1,14 @@
+{
+    "name": "ssv/docker",
+    "description": "Configure a virtual machine for Windows OSes",
+    "type": "utility",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Sergey Samoilenko",
+            "email": "s.samoilenko@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
