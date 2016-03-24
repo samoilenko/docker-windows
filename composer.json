@@ -9,6 +9,6 @@
             "email": "s.samoilenko@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
